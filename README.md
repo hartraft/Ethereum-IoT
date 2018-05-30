@@ -28,7 +28,7 @@ In order to interact with the Ethereum blockchain, you will have to compile Pari
 ```
 $ curl https://sh.rustup.rs -sSf | sh
 $ source $HOME.cargo/env
-$ cargo install --git https://github.com/ethcore/parity.git parity
+$ cargo install --git https://github.com/paritytech/parity.git parity
 ```
 
 ## Quickly Configure Blockchain
